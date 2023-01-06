@@ -8,4 +8,4 @@ Regards,
 
 Alejandro Boffa
 
-Ethical Hacking University Expert , Professional data scientist , Python Developer
+Ethical Hacking University Expert , Professional Data Scientist , Python Developer
